@@ -8,7 +8,7 @@
 
 
 <img width="908" height="541" alt="Screenshot 2026-10-06 at 14 27 49" src="https://github.com/user-attachments/assets/f9447bc9-dea0-4ebb-a185-bd4703e1c7fe" />
-<img width="563" height="1218" alt="IMG_3170" src="https://github.com/user-attachments/assets/3d0f8efd-0f37-40d0-9535-3f92331883ee" />
+<img width="250" height="541" alt="IMG_3170" src="https://github.com/user-attachments/assets/3d0f8efd-0f37-40d0-9535-3f92331883ee" />
 
 MIT License
 
